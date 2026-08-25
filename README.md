@@ -192,25 +192,12 @@ Qualified through Bangladesh's national selection pathway for the international 
 
 ## 📊 Snapshot
 
-### 🥧 Where My Time Goes
-
-```mermaid
-%%{init: {'theme':'base', 'themeVariables': {'pie1':'#FF6B6B','pie2':'#4ECDC4','pie3':'#FFD93D','pie4':'#6C5CE7','pie5':'#1DD1A1','pieOuterStrokeWidth':'2px','pieOpacity':'1'}}}%%
-pie showData
-    title Focus Allocation
-    "Entrepreneurship & Ventures" : 35
-    "Academics (A-Levels)" : 30
-    "Leaderships" : 10
-    "Competitions & Olympiads" : 15
-    "Product Design & Projects" : 10
-```
-
 ### 🗺️ Founder Journey Timeline
 
 ```mermaid
 flowchart LR
     A["🎮 2020<br/>XiGC Esports<br/>Co-Founded"] --> B["🛍️ 2020<br/>Subscription Lovers<br/>Founded"]
-    B --> C["🏆 2022<br/>1st Prize<br/>Renewable Energy"]
+    B --> C["🏆 2022<br/>3rd Prize<br/>Renewable Energy"]
     C --> D["🌐 2024<br/>Marketplace Selling<br/>G2G, SkyCoach+"]
     D --> E["🇸🇬 2025<br/>Young Founders Summit<br/>Singapore"]
     E --> F["🥇 2025<br/>E-icon World Contest<br/>1st Place"]
@@ -227,17 +214,13 @@ flowchart LR
     style H fill:#00C4CC,color:#fff
 ```
 
+| 🥧 Focus Allocation | 📊 Ventures & Roles by Category |
+|:---:|:---:|
+| ![Pie Chart](https://quickchart.io/chart?w=420&h=280&bkg=%230D1117&c=%7Btype:%27pie%27,data:%7Blabels:%5B%27Entrepreneurship%27,%27Academics%27,%27Leadership%27,%27Competitions%27,%27Projects%27%5D,datasets:%5B%7Bdata:%5B40,25,15,15,5%5D,backgroundColor:%5B%27%23FF6B6B%27,%27%234ECDC4%27,%27%23FFD93D%27,%27%236C5CE7%27,%27%231DD1A1%27%5D%7D%5D%7D,options:%7Blegend:%7Blabels:%7BfontColor:%27white%27%7D,position:%27bottom%27%7D%7D%7D) | ![Bar Chart](https://quickchart.io/chart?w=420&h=280&bkg=%230D1117&c=%7Btype:%27bar%27,data:%7Blabels:%5B%27Entrepreneurship%27,%27Leadership%27,%27Competitions%27,%27Fellowships%27,%27Projects%27%5D,datasets:%5B%7Blabel:%27Count%27,data:%5B3,5,4,2,6%5D,backgroundColor:%5B%27mediumpurple%27,%27seagreen%27,%27orange%27,%27dodgerblue%27,%27crimson%27%5D%7D%5D%7D,options:%7Blegend:%7Bdisplay:false%7D,scales:%7ByAxes:%5B%7Bticks:%7BbeginAtZero:true,fontColor:%27white%27%7D%7D%5D,xAxes:%5B%7Bticks:%7BfontColor:%27white%27%7D%7D%5D%7D%7D%7D) |
+
 ### 📈 Subscription Lovers — Customer Growth
 
-<div align="center">
-<img src="https://quickchart.io/chart?w=500&h=280&bkg=%230D1117&c={type:'line',data:{labels:['2020','2021','2022','2023','2024','2025','2026'],datasets:[{label:'Customers',data:[100,450,900,1600,2300,2800,3000],borderColor:'%2358A6FF',backgroundColor:'rgba(88,166,255,0.2)',fill:true,tension:0.4}]},options:{plugins:{legend:{labels:{color:'white'}}},scales:{x:{ticks:{color:'white'}},y:{ticks:{color:'white'}}}}}" width="500">
-</div>
-
-### 📊 Ventures & Roles by Category
-
-<div align="center">
-<img src="https://quickchart.io/chart?w=500&h=280&bkg=%230D1117&c={type:'bar',data:{labels:['Entrepreneurship','Leadership','Competitions','Fellowships','Projects'],datasets:[{label:'Count',data:[3,5,4,2,6],backgroundColor:['mediumpurple','seagreen','orange','dodgerblue','crimson']}]},options:{legend:{display:false},scales:{yAxes:[{ticks:{beginAtZero:true,fontColor:'white'}}],xAxes:[{ticks:{fontColor:'white'}}]}}}" width="500">
-</div>
+![Line Chart](https://quickchart.io/chart?w=860&h=280&bkg=%230D1117&c=%7Btype:%27line%27,data:%7Blabels:%5B%272020%27,%272021%27,%272022%27,%272023%27,%272024%27,%272025%27,%272026%27%5D,datasets:%5B%7Blabel:%27Customers%27,data:%5B100,450,900,1600,2300,2800,3000%5D,borderColor:%27%2358A6FF%27,backgroundColor:%27rgba(88,166,255,0.2)%27,fill:true,tension:0.4%7D%5D%7D,options:%7Blegend:%7Blabels:%7BfontColor:%27white%27%7D%7D,scales:%7ByAxes:%5B%7Bticks:%7BfontColor:%27white%27%7D%7D%5D,xAxes:%5B%7Bticks:%7BfontColor:%27white%27%7D%7D%5D%7D%7D%7D)
 
 ---
 
