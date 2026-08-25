@@ -127,7 +127,7 @@ Selected from 2,100+ essays worldwide; awarded a $1,250 research scholarship.
 
 <br>
 
-**🏅 4x Champion — Inter-School Science Festival**
+**🏅 4x Champion — National Inter-School Science Festival**
 <br>
 *Scintilla Science Club · 2015, 2017, 2018, 2022*
 <br><br>
