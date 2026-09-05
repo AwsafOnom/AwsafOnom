@@ -114,33 +114,31 @@ prediction, streaming live water-level data to a cloud server.
 
 ## 🏅 Olympiads & Awards
 
-**🥇 1st Place — 15th e-ICON World Contest** · Ministry of Education, South Korea & KEFA · 2025<br>
-Won globally for ClimaCore among 161 projects from 37 countries. Top 15 teams
-were flown to the Seoul final; award presented by South Korea's Minister of
-Education.
+**🥇 1st Place | 15th e-ICON World Contest** · Ministry of Education, South Korea & KEFA · 2025<br>
+Won globally for ClimaCore among 161 projects from 37 countries. Award presented
+by South Korea's Minister of Education.
 
-**✍️ High Honors — Lumiere Scholars Essay Award** · 2026<br>
-Selected from over 2,100 essays from more than 100 countries in the Spring 2026
-cohort. Judged double-blind by an Academic Advisory Committee of professors from
-Oxford, Cambridge, Brown, Dartmouth, Cornell, Duke and Carnegie Mellon. High
-Honors is the highest tier below the six medal places. Prompt set by Dr. Bruce
-McLaren, Carnegie Mellon: *in the new age of generative AI, what are the most
-important impacts on education?* Carries a $1,250 scholarship toward the Lumiere
-Research Scholars Program, which pairs students one-to-one with a PhD mentor, a
-writing coach and a publication strategist.
+**✍️ High Honors | Lumiere Scholars Essay Award** · 2026<br>
+Top tier below the six medal places, from 2,100+ essays across 100+ countries.
+Judged double-blind by professors from Oxford, Cambridge, Brown, Dartmouth and
+Carnegie Mellon. $1,250 research scholarship.
 
-**🌐 8th Nationally — Bangladesh TST, International Earth Science Olympiad** · BYEI · 2025<br>
+**🌐 8th Nationally | Bangladesh TST, International Earth Science Olympiad** · BYEI · 2025<br>
 One of 30 national finalists; certificate presented by France's Ambassador to
 Bangladesh.
 
-**🔭 National Round Qualifier — Bangladesh Olympiad on Astronomy and Astrophysics** · 2026<br>
+**🔭 National Round Qualifier | Bangladesh Olympiad on Astronomy and Astrophysics** · 2026<br>
 Bangladesh's selection pathway for the IOAA.
 
-**🌏 Fully Funded Delegate — International Geoscience Youth Movement** · Prayoga Institute & Ministry of Earth Sciences, India · 2026<br>
+**🌏 Fully Funded Delegate | International Geoscience Youth Movement** · Prayoga Institute & Ministry of Earth Sciences, India · 2026<br>
 One of 22 students selected globally for a residential earth science workshop in
 Bangalore.
 
-**🏫 3x Champion — Project Display, Annual Inter-School Science Festival** · Scintilla Science Club · 2015, 2017, 2022
+**🇸🇬 Full Scholarship | Young Founders Summit** · National Youth Council of Singapore · 2025–26<br>
+One of 10 fully funded founders selected from 70 across Asia for a six-month
+program in Singapore.
+
+**🏫 3x Champion | Project Display, Annual Inter-School Science Festival** · Scintilla Science Club · 2015, 2017, 2022
 
 ---
 
