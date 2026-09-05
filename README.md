@@ -1,231 +1,156 @@
-<div align="center">
+<h1 align="center">Awsaf Zaman Onom</h1>
+<p align="center">
+  <b>Building AI tooling and earth science projects from Dhaka</b><br>
+  A-Level student · Mathematics, Physics, Economics
+</p>
 
-# Hi, I'm Awsaf Zaman Onom 👋
-
-### Founder-Engineer | Building Cross-Border Digital Ventures & AI Products
-
-**Turning ideas into scalable ventures — from AI marketplaces to climate-tech products.**
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:awsafonom@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/awsaf-zaman-onom)
-
-</div>
-
----
-
-## 🚀 About Me
-
-I'm an A-Level student in Dhaka building at the intersection of **entrepreneurship, product design, and technology**. I founded a cross-border digital services business serving 3,000+ customers, and I'm now co-building an AI & SaaS marketplace for global software distribution.
-
-Alongside the business work, I design AI-powered products, compete in international science olympiads, and lead youth delegations of 1,000+ people. I care about building things that scale — companies, communities, and climate solutions.
+<p align="center">
+  <a href="https://awsafonom.me"><img src="https://img.shields.io/badge/Portfolio-2DD4BF?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+  <a href="mailto:awsafonom@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/awsaf-zaman-onom"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
 
 ---
 
-## 🛠️ Tech & Professional Skills
+## 🧭 About
 
-**Languages & Scripting**
+I build software and study the earth. Most of my code is AI tooling — agent
+orchestration, LLM frameworks, and product interfaces — and most of my research
+is in earth science, climate, and astronomy.
+
+Currently designing AI products, competing in the national astronomy and earth
+science olympiads, and contributing observations to a NASA-partnered asteroid
+search campaign.
+
+---
+
+## 🛠️ Stack
+
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
-**Design & Product**
+**Frameworks**
 
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**AI & Data**
+
+![LiteLLM](https://img.shields.io/badge/LiteLLM-4B32C3?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square)
+![BoTorch](https://img.shields.io/badge/BoTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+**Backend & Tools**
+
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Lovable](https://img.shields.io/badge/Lovable-AI%20App%20Dev-8A2BE2?style=flat-square)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
-
-**Workspace & Collaboration**
-
-![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=flat-square&logo=google&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white)
-
-**Business & Growth**
-
-![Digital Marketing](https://img.shields.io/badge/Digital%20Marketing-FF6F00?style=flat-square)
-![E--commerce Ops](https://img.shields.io/badge/E--commerce%20Ops-2E8B57?style=flat-square)
-![Community Management](https://img.shields.io/badge/Community%20Management-1DA1F2?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-## 💡 Entrepreneurship & Leadership
+## 📦 Projects
 
-### 🏢 Founder — Subscription Lovers *(2020 – Present)*
-- Built a cross-border digital services business serving **3,000+ customers**
-- Solved for international payments, platform access, and customer trust at scale
+### 🩺 [ZeroOne](https://github.com/AwsafOnom/ZeroOne) · 2026
+Full-stack recovery platform where squads of eight people with different chronic
+conditions grow one shared living artifact. Realtime squad mechanics, a
+mentorship loop, journaling with crisis detection, and an AI assistant.
+`React` `TypeScript` `Express` `Prisma` `Socket.io`
 
-### 🤝 Co-Founder — Vendiac.com (AI & SaaS Marketplace) *(2025 – Present)*
-- Co-building a marketplace for cross-border software distribution
-- Owns seller onboarding, platform operations, and marketplace policy
+### 🌍 [ClimaCore](https://github.com/AwsafOnom/ClimaCore) · 2025
+Climate action app with GPS-based school missions, live disaster alerts, and a
+green-points leaderboard. 🏆 1st place, 15th e-ICON World Contest.
+`Flutter` `Firebase` `GPS`
 
-### 🛒 Digital Marketplace Seller — G2G, SkyCoach, Mmonster, U7BUY *(2024 – Present)*
-- Runs stores across four international marketplaces, managing orders and client relations
+### 🧪 [Corvex](https://github.com/AwsafOnom/Corvex) · 2026
+LLM agent orchestration for scientific workflows, with an MCP server and client.
+`Python 3.12` `LiteLLM` `BoTorch` `ASE` `Streamlit`
 
-### 🎙️ Under-Secretary-General, Delegate Affairs — Emissary International MUN *(2024)*
-- Led one of three senior departments, managing onboarding for **1,000+ delegates**
+### 🔗 [Parley](https://github.com/AwsafOnom/Parley) · 2026
+Lightweight A2A-first framework for pluggable agents and multi-agent systems.
+One runtime dependency, swappable LLMs, tools, transports and storage.
+`Python` `A2A`
 
-### 🍽️ Director, Food & Distribution — Emunga Model United Nations *(2024)*
-- Coordinated meal planning, catering, and food distribution for all conference participants
+### 🧠 [UntilTheEu](https://github.com/AwsafOnom/UntilTheEu)
+Mental wellness app running a stress diagnostic quiz and serving tailored
+relaxation audio, activities and video guides.
+`React Native` `Expo`
 
-### 📰 Vice President — Josephite Wall Magazine Club *(2022 – 2023)*
-- Led a 12-member committee overseeing ~70 executive members; secured event sponsorships
+### 📚 Nemory · 2026 · *in development*
+Korean vocabulary app built on mnemonics rather than repetition. Chapter-based
+decks, configurable practice, streaks and adaptive study plans. iOS, Android, web.
+[app.mynemory.com](https://app.mynemory.com)
 
-### 🔬 Organizing Secretary — Scintilla Science Club *(2022)*
-- Led a 12-volunteer tech team; recognized as one of the Best Executive Board Members
-
-### 🎮 Co-Owner — XiGC Esports Organisation *(2020 – 2022)*
-- Grew a gaming community to **4,000+ Discord members**; organized tournaments and events
-
----
-
-## 📂 Featured Projects
-
-### 🩺 ZeroOne — AI-Powered Health Recovery Platform *(2026)*
-Designed the full UI/UX and product architecture for an AI recovery platform supporting 8 chronic conditions via personalized guidance and peer networks.
-`Figma` `AI Product Design` `UX Architecture`
-
-### 🌍 ClimaCore — SDG 13 Climate Action App *(2025)*
-Built an award-winning climate app with AI learning, GPS gamification, and disaster alerts — won 1st place at a global contest of 161 teams.
-`Mobile App Design` `AI/ML Concepts` `Gamification`
-
-### ♻️ Recytron — Environmental Robotics Project *(2024)*
-Designed a robotic concept combining renewable-powered air purification with IoT-based flood prediction using water-level sensors.
-`IoT` `Cloud Monitoring` `Sensors`
-
-### ⚡ Carbon-Based Energy's Invulnerability & Implementation Methodology *(2022)*
-Researched Carbon Capture and Storage (CCS) methods, geological storage, and industrial utilization to improve sustainability of carbon-based energy.
-`Research` `Sustainability` `Energy Systems`
-
-### 🔋 Generation & Utilization Nexus of Decarbonized Energy *(2019)*
-Designed an integrated renewable energy framework combining solar, wind, sound, and waste-heat tech into scalable smart grids — won 3rd Prize nationally.
-`Renewable Energy` `Systems Design`
-
-### 🧬 CRISPR: From Genome Sequence to Global Warming *(2018)*
-Explored CRISPR-Cas9 genome editing, proposing bioluminescent algae as a sustainable lighting solution to cut energy use.
-`Biotechnology` `Research` `Climate Tech`
+### ♻️ Recytron · 2024
+Robotic system pairing renewable-powered air purification with ultrasonic flood
+prediction, streaming live water-level data to a cloud server.
+`Arduino` `ESP8266` `IoT`
 
 ---
 
-## 🥇 Awards & Recognition
+## 🔬 Research
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🥇 1st Place — 15th E-icon World Contest**
-<br>
-*Ministry of Education, South Korea & KEFA · 2025*
-<br><br>
-Won globally for ClimaCore among 161 teams from 37 countries. Awarded on stage by South Korea's Minister of Education.
-
-<br>
-
-**✍️ High Honors — Lumiere Scholars Essay Award**
-<br>
-*Lumiere Education · 2026*
-<br><br>
-Selected from 2,100+ essays worldwide; awarded a $1,250 research scholarship.
-
-<br>
-
-**🏅 4x Champion — National Inter-School Science Festival**
-<br>
-*Scintilla Science Club · 2015, 2017, 2018, 2022*
-<br><br>
-Won 1st place four times for STEM research and innovation.
-
-</td>
-<td width="50%" valign="top">
-
-**🌐 8th Place — Bangladesh TST, International Earth Science Olympiad (IESO)**
-<br>
-*BYEI · 2025*
-<br><br>
-1 of 30 national finalists; certificate presented by France's Ambassador to Bangladesh.
-
-<br>
-
-**🔭 National Qualifier — International Olympiad on Astronomy and Astrophysics (IOAA)**
-<br>
-*BDOAA · 2026*
-<br><br>
-Qualified through Bangladesh's national selection pathway for the international olympiad.
-
-</td>
-</tr>
-</table>
+| Year | Work |
+|---|---|
+| 2025 | **From Fault Lines to Floodplains** — earth science approaches to infrastructure resilience against seismic and flood hazards. Written for IESO. |
+| 2024 | **Asteroid Search Campaign** — analysed Pan-STARRS images for near-Earth objects and Main Belt asteroids with IASC, a NASA partner program, as team Megalodon. |
+| 2022 | **Carbon Capture and Storage** — pre-combustion, post-combustion and geological storage, plus industrial reuse of captured CO₂. |
+| 2019 | **Decarbonised Energy Grids** — integrated renewable framework across main-grid and nano-grid scales. 3rd prize. |
+| 2018 | **CRISPR and Bioluminescent Algae** — CRISPR-Cas9 editing proposed for energy-efficient urban lighting. |
+| 2017 | **Internet Hub Humanity Served** — IoT smart village model: connectivity, precision agriculture, UAV medical delivery. Champions. |
 
 ---
 
-## 🎓 Programs & Fellowships
+## 🏅 Olympiads & Awards
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**🥇 1st Place — 15th e-ICON World Contest** · Ministry of Education, South Korea & KEFA · 2025<br>
+Won globally for ClimaCore among 161 projects from 37 countries. Top 15 teams
+were flown to the Seoul final; award presented by South Korea's Minister of
+Education.
 
-**🎓 Full Scholarship — Young Founders Summit**
-<br>
-*National Youth Council of Singapore · 2025–26*
-<br><br>
-1 of 10 fully-funded founders selected from 70 across Asia for a 6-month founder program in Singapore.
+**✍️ High Honors — Lumiere Scholars Essay Award** · 2026<br>
+Selected from over 2,100 essays from more than 100 countries in the Spring 2026
+cohort. Judged double-blind by an Academic Advisory Committee of professors from
+Oxford, Cambridge, Brown, Dartmouth, Cornell, Duke and Carnegie Mellon. High
+Honors is the highest tier below the six medal places. Prompt set by Dr. Bruce
+McLaren, Carnegie Mellon: *in the new age of generative AI, what are the most
+important impacts on education?* Carries a $1,250 scholarship toward the Lumiere
+Research Scholars Program, which pairs students one-to-one with a PhD mentor, a
+writing coach and a publication strategist.
 
-</td>
-<td width="50%" valign="top">
+**🌐 8th Nationally — Bangladesh TST, International Earth Science Olympiad** · BYEI · 2025<br>
+One of 30 national finalists; certificate presented by France's Ambassador to
+Bangladesh.
 
-**🌍 Fully Funded Delegate — Intl. Geoscience Youth Movement**
-<br>
-*Prayoga Institute / Ministry of Earth Sciences, Government of India · 2026*
-<br><br>
-1 of 22 students selected globally for a residential Earth science workshop in Bangalore.
+**🔭 National Round Qualifier — Bangladesh Olympiad on Astronomy and Astrophysics** · 2026<br>
+Bangladesh's selection pathway for the IOAA.
 
-</td>
-</tr>
-</table>
+**🌏 Fully Funded Delegate — International Geoscience Youth Movement** · Prayoga Institute & Ministry of Earth Sciences, India · 2026<br>
+One of 22 students selected globally for a residential earth science workshop in
+Bangalore.
+
+**🏫 3x Champion — Project Display, Annual Inter-School Science Festival** · Scintilla Science Club · 2015, 2017, 2022
 
 ---
 
 ## 🎓 Education
 
-**Cambridge International AS & A-Levels** — Mathematics, Physics, Economics *(2025 – 2027)*
-**Secondary School Certificate (SSC)** — St Joseph Higher Secondary School *(2023)*
+**Cambridge International AS & A-Levels** — Mathematics, Physics, Economics · 2025–2027<br>
+**Secondary School Certificate** — St Joseph Higher Secondary School · 2023
 
 ---
 
-## 📊 Snapshot
-
-### 🗺️ Founder Journey Timeline
-
-```mermaid
-flowchart LR
-    A["🎮 2020<br/>XiGC Esports<br/>Co-Founded"] --> B["🛍️ 2020<br/>Subscription Lovers<br/>Founded"]
-    B --> C["🏆 2022<br/>3rd Prize<br/>Renewable Energy"]
-    C --> D["🌐 2024<br/>Marketplace Selling<br/>G2G, SkyCoach+"]
-    D --> E["🇸🇬 2025<br/>Young Founders Summit<br/>Singapore"]
-    E --> F["🥇 2025<br/>E-icon World Contest<br/>1st Place"]
-    F --> G["🚀 2025<br/>Vendiac Co-Founded"]
-    G --> H["🇮🇳 2026<br/>Geoscience Youth<br/>Movement, India"]
-
-    style A fill:#8A2BE2,color:#fff
-    style B fill:#2E8B57,color:#fff
-    style C fill:#FF6F00,color:#fff
-    style D fill:#1DA1F2,color:#fff
-    style E fill:#D14836,color:#fff
-    style F fill:#FFD700,color:#000
-    style G fill:#4285F4,color:#fff
-    style H fill:#00C4CC,color:#fff
-```
-
-| 🥧 Focus Allocation | 📊 Ventures & Roles by Category |
-|:---:|:---:|
-| ![Pie Chart](https://quickchart.io/chart?w=420&h=280&bkg=%230D1117&c=%7Btype:%27pie%27,data:%7Blabels:%5B%27Entrepreneurship%27,%27Academics%27,%27Leadership%27,%27Competitions%27,%27Projects%27%5D,datasets:%5B%7Bdata:%5B40,25,15,15,5%5D,backgroundColor:%5B%27%23FF6B6B%27,%27%234ECDC4%27,%27%23FFD93D%27,%27%236C5CE7%27,%27%231DD1A1%27%5D%7D%5D%7D,options:%7Blegend:%7Blabels:%7BfontColor:%27white%27%7D,position:%27bottom%27%7D%7D%7D) | ![Bar Chart](https://quickchart.io/chart?w=420&h=280&bkg=%230D1117&c=%7Btype:%27bar%27,data:%7Blabels:%5B%27Entrepreneurship%27,%27Leadership%27,%27Competitions%27,%27Fellowships%27,%27Projects%27%5D,datasets:%5B%7Blabel:%27Count%27,data:%5B3,5,4,2,6%5D,backgroundColor:%5B%27mediumpurple%27,%27seagreen%27,%27orange%27,%27dodgerblue%27,%27crimson%27%5D%7D%5D%7D,options:%7Blegend:%7Bdisplay:false%7D,scales:%7ByAxes:%5B%7Bticks:%7BbeginAtZero:true,fontColor:%27white%27%7D%7D%5D,xAxes:%5B%7Bticks:%7BfontColor:%27white%27%7D%7D%5D%7D%7D%7D) |
-
-### 📈 Subscription Lovers — Customer Growth
-
-![Line Chart](https://quickchart.io/chart?w=860&h=280&bkg=%230D1117&c=%7Btype:%27line%27,data:%7Blabels:%5B%272020%27,%272021%27,%272022%27,%272023%27,%272024%27,%272025%27,%272026%27%5D,datasets:%5B%7Blabel:%27Customers%27,data:%5B100,450,900,1600,2300,2800,3000%5D,borderColor:%27%2358A6FF%27,backgroundColor:%27rgba(88,166,255,0.2)%27,fill:true,tension:0.4%7D%5D%7D,options:%7Blegend:%7Blabels:%7BfontColor:%27white%27%7D%7D,scales:%7ByAxes:%5B%7Bticks:%7BfontColor:%27white%27%7D%7D%5D,xAxes:%5B%7Bticks:%7BfontColor:%27white%27%7D%7D%5D%7D%7D%7D)
-
----
-
-*Open to collaborations, ventures, and conversations about tech + impact.*
-
-</div>
-
-<img width="800" height="600" alt="212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41" src="https://github.com/user-attachments/assets/220a4430-1e09-4c97-8fa1-c34998b234e6" />
+<p align="center">
+  <a href="https://awsafonom.me">awsafonom.me</a> · Open to research collaborations and conversations about AI tooling and earth science.
+</p>
