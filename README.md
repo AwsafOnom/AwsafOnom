@@ -134,7 +134,7 @@ Bangladesh's selection pathway for the IOAA.
 One of 22 students selected globally for a residential earth science workshop in
 Bangalore.
 
-**🇸🇬 Full Scholarship | Young Founders Summit** · National Youth Council of Singapore · 2025–26<br>
+**💼 Full Scholarship | Young Founders Summit** · National Youth Council of Singapore · 2025–26<br>
 One of 10 fully funded founders selected from 70 across Asia for a six-month
 program in Singapore.
 
